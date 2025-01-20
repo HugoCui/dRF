@@ -2,7 +2,7 @@
 
 Code for the paper : <i>Deterministic equivalent and error universality of deep random features learning</i> (<a href="https://proceedings.mlr.press/v202/schroder23a.html">link to paper</a>)
 
-<p align="center"><img src="figures/denoising_curves.jpg" alt="illus" width="600"/></center></p>
+<p align="center"><img src="figures/layerwise.jpg" alt="illus" width="400"/></center></p>
 
 ## Ridge regression
 (Fig. 1)
